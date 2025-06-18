@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Nicole Santos! 👋
 
-<!--
-**nics11santos/nics11santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](https://pin.it/2II00z3HU)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **[Aspiring BSIT Student]** passionate about **[tech and continous learning]**. I enjoy solving real-world problems, building projects, and growing my skills one line of code at a time.  
+I believe in learning by doing — and I’m always excited to collaborate and explore new possibilities.
+
+- 🌱 Currently learning: **[Web development, MySQL, and VB.NET for Windows Forms Applications]**
+- 🔭 Working on: **[A School Management System and personal portfolio website]**
+- 🌍 Languages: **[HTML, CSS, JavaScript, VB.NET, MySQL | Conversational in **English and Filipino**]**
+- 📫 How to reach me: **[nclsnts061104@gmail.com]**
+- ⚡ Fun fact: **[ I can spend hours debugging and still find it fun — with coffee, of course! ☕]**
+
+  ----
+  💡 *“Every expert was once a beginner. Keep coding!”*
+
+
+
